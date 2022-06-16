@@ -10,3 +10,10 @@
     include("controller/".$page_controller);*/
 ?>
 <?php echo "hako le + gros"; ?>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>test</h1>
+    </body>
+</html>
