@@ -9,4 +9,4 @@
 
     include("controller/".$page_controller);*/
 ?>
-hako le + gros
+<?php echo "hako le + gros"; ?>
