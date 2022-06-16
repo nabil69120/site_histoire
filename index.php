@@ -1,4 +1,5 @@
-<?php/*
+<?php
+/*
     include("config/config.php");
 
     $page_controller = 'c_index.php';
