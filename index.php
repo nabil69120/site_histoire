@@ -1,6 +1,6 @@
 <html>
     <head>
-        <h1>Site en construction</h1>
+        <title>Site en construction</title>
     </head>
     <body>
         <h3>Hako le + gros</h3>
