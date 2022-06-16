@@ -1,4 +1,4 @@
-<?php
+<?php/*
     include("config/config.php");
 
     $page_controller = 'c_index.php';
@@ -7,5 +7,6 @@
         $page_controller = "c_".$_GET['page'].'.php';
     }
 
-    include("controller/".$page_controller);
+    include("controller/".$page_controller);*/
 ?>
+dtrgf
