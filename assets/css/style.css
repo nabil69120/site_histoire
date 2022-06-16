@@ -1,0 +1,66 @@
+body
+{
+    background-color: #212121;
+    color: rgb(202, 202, 202);
+}
+/*-----------------------Header-------------------------*/
+#header
+{
+    background-color: #303030;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+.header_logo
+{
+    width: 100%;
+}
+#header_search_input
+{
+    background-color: #454545;
+    border: 0px solid black;
+    color: #AFAFAF;
+    border-radius: .125em;
+    text-align: center;
+    padding: 4px;
+    width: 85%;
+}
+#header_search_input:hover
+{
+    background-color: #414141;
+}
+/*------------------------------Page------------------------------*/
+#page_firstdiv
+{
+    padding: 1%;
+}
+/*----------------------------Index---------------------------*/
+.index_couverture
+{
+    width: 300px;
+    
+}
+.index_couverture:hover
+{
+    background-color: rgb(202, 202, 202,0.1);
+}
+.couverture
+{
+    border: 1px solid grey;
+}
+.couverture_img
+{
+    height: 500px;
+    background-size: cover;
+}
+.couverture_img:hover
+{
+    opacity: 0.9;
+}
+.couverture_img_effet_opacity
+{
+    height: 500px;
+    /*background-color: rgb(156, 156, 156);*/
+    background: linear-gradient( white, rgb(156, 156, 156));
+    
+}
